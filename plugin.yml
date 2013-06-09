@@ -1,0 +1,10 @@
+name: BitGoldJobs
+main: bitgoldjobs.BitGoldJobs
+version: 0.1.0
+
+commands:
+  jobs:
+    description: Get info on jobs
+    usage: /<command>
+    permission: bitgoldjobs.jobs
+    permission-message: You don't have <permission>
